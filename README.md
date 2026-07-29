@@ -1,6 +1,17 @@
 # I'm Sahil Khan 👋
 # 💫 About Me: 
-Building projects to showcase React, SQL, Python, and Power BI skills with real-world use cases.<br>Open-source projects related to web apps, data analytics, dashboards, and automation tools.<br>React.js, SQL, Power BI, and Python for Data Analytics.<br>React fundamentals, Data Analytics, SQL queries, Power BI dashboards, and Python scripting.<br>I switched from backend roots (MCA, MCA + 6.5 yrs experience) to building modern UI and data dashboards 🚀<br>Senior Engineer | PG-MCA | 6.5+ yrs | Learning Full-Stack & Data Analytics<br>
+Enterprise Software Engineer transitioning into Data Analytics with 6+ years of experience building enterprise applications, business process automation, and data-driven solutions.
+
+I'm passionate about solving business problems using:
+
+• Power BI
+• SQL
+• Python
+• Excel
+• FastAPI
+• AWS
+
+Currently building real-world analytics projects and continuously improving my skills.
 
 
 ## 🌐 Socials:
