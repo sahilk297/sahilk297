@@ -22,9 +22,9 @@ Enterprise Software Engineer transitioning into Data Analytics & Business Intell
 
 - 💼 6+ years of experience building enterprise applications and workflow automation.
 - 📊 Currently transitioning into **Data Analytics & Business Intelligence**.
-- 🐍 Learning **Python, SQL, Power BI, FastAPI and AWS**.
+- 🐍 Working on **Python, SQL, Power BI, FastAPI and AWS**.
 - 📈 Passionate about transforming raw data into business insights.
-- 🎯 Goal: Become a Data Analyst / BI Developer.
+- 🎯 Goal: Become a Data Analyst / Data Engineer.
 
 ---
 
@@ -34,7 +34,7 @@ Enterprise Software Engineer transitioning into Data Analytics & Business Intell
 |----------|---------|
 | Languages | Python, SQL, C#, JavaScript |
 | BI | Power BI, Excel |
-| Database | SQL Server |
+| Database | SQL Server, MySQL |
 | Web | HTML, CSS |
 | Tools | Git, GitHub |
 | Currently Learning | FastAPI, AWS, Machine Learning |
